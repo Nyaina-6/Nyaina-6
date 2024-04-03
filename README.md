@@ -1,4 +1,4 @@
-<h1 align="center" , color="#edd3ce"> Hi 👋 </h1> <hr>
+<h1 align="center" , color="#edd3ce"> Hi 👋 </h1> 
 <h2 align="center"> I'm Aina Lariol </h2>
 <p align="center">
  🤝 I’m looking for **an internship ** <br>
